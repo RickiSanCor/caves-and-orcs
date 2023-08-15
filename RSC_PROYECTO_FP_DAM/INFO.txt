@@ -1,0 +1,14 @@
+
+Esta es una lista de usuarios de prueba cargados:
+
+Usuario: admin          Password: 321       //Administrador principal
+Usuario: pepe           Password: 1234
+Usuario: maria          Password: 1111
+Usuario: luciaSoyYo     Password: 2222
+Usuario: alberto231     Password: 3333
+Usuario: miguelon       Password: 4321
+Usuario: phiilip        Password: 1122
+Usuario: admin2         Password: 2321
+Usuario: leiaOrgana     Password: 333
+Usuario: ire321         Password: 321
+
